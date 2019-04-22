@@ -20,3 +20,5 @@ Credits I took in Year 1:
 | -- | -- |
 | Year1 Term1 | 18 |
 | Year1 Term2 | 19 |
+
+![screenshot](https://github.com/csci3250-2019/student-1155107666/blob/master/screenshot.png)
